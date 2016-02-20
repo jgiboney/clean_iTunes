@@ -1,0 +1,1 @@
+tell app "itunes" to {player position}
